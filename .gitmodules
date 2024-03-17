@@ -1,0 +1,12 @@
+[submodule "source/meta-tegra"]
+	path = source/meta-tegra
+	url = https://github.com/OE4T/meta-tegra.git
+	branch = kirkstone
+[submodule "source/meta-opemembedded"]
+	path = source/meta-opemembedded
+	url = https://github.com/openembedded/meta-openembedded.git
+	branch = kirkstone
+[submodule "source/openmembedded-core"]
+	path = source/openmembedded-core
+	url = https://github.com/openembedded/openembedded-core.git
+	branch = kirkstone
