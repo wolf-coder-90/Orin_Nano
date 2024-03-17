@@ -2,21 +2,11 @@
 	path = source/meta-tegra
 	url = https://github.com/OE4T/meta-tegra.git
 	branch = kirkstone
-[submodule "source/meta-opemembedded"]
-	path = source/meta-opemembedded
-	url = https://github.com/openembedded/meta-openembedded.git
-	branch = kirkstone
 [submodule "source/openmembedded-core"]
 	path = source/openmembedded-core
 	url = https://github.com/openembedded/openembedded-core.git
 	branch = kirkstone
-[submodule "source/bttbake"]
-	path = source/bttbake
-	url = https://github.com/openembedded/bitbake.git
 [submodule "source/bitbake"]
 	path = source/bitbake
 	url = https://github.com/openembedded/bitbake.git
-[submodule "source/source/meta-openembedded"]
-	path = source/source/meta-openembedded
-	url = https://github.com/openembedded/meta-openembedded.git
-	branch = kirkstone
+
