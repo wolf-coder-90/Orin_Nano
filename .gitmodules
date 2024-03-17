@@ -10,3 +10,6 @@
 	path = source/openmembedded-core
 	url = https://github.com/openembedded/openembedded-core.git
 	branch = kirkstone
+[submodule "source/bttbake"]
+	path = source/bttbake
+	url = https://github.com/openembedded/bitbake.git
